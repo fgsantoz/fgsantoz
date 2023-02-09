@@ -1,7 +1,12 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px"> I'm Fabricio Santos!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fgsantoz&color=green" alt="Profile views" /> </p>
-
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=fgsantoz&color=green" alt="Profile views" />
+</div>
+<br>
+<p align="left">
 I'm an enthusiast of web development. I have been acquiring knowledge in technologies such as HTML, CSS, JavaScript, ReactJS, TypeScript and NodeJS and I am always seeking to improve myself. I believe that constant upgrading is crucial for progress in this area and I am excited to face new challenges and learning opportunities. I hope to share my projects and collaborate with the community here on GitHub as I continue to evolve.
+</p>
+
 
 
 <div style="display: inline_block"><br>  
