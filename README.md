@@ -7,7 +7,7 @@
 <br>
 
 <div align="left">
-<p >As a web development enthusiast, I am dedicated to constantly updating my skills and making progress in the field. I am eager to embrace new challenges and seize every opportunity to learn.
+<p>As a web development enthusiast, I am dedicated to constantly updating my skills and making progress in the field. I am eager to embrace new challenges and seize every opportunity to learn.
 <br>
 <br>
 Through sharing my projects and collaborating with the community on GitHub, I hope to further my growth and evolve in my passion for web development.</p>
