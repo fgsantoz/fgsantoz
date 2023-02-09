@@ -1,4 +1,4 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px"> I'm Fabricio Santos!</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="32px"> I'm Fabricio Santos!</h1>
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=fgsantoz&color=blue" alt="Profile views" />
