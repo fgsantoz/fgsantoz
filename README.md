@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px"> I'm Fabricio Santos!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fgsantoz&color=green" alt="Profile views" /> </p>
 
-My name is Fabricio Santos and I am an enthusiast of web development. I have been acquiring knowledge in technologies such as HTML, CSS, JavaScript, ReactJS, TypeScript and NodeJS and I am always seeking to improve myself. I believe that constant upgrading is crucial for progress in this area and I am excited to face new challenges and learning opportunities. I hope to share my projects and collaborate with the community here on GitHub as I continue to evolve.
+I'm an enthusiast of web development. I have been acquiring knowledge in technologies such as HTML, CSS, JavaScript, ReactJS, TypeScript and NodeJS and I am always seeking to improve myself. I believe that constant upgrading is crucial for progress in this area and I am excited to face new challenges and learning opportunities. I hope to share my projects and collaborate with the community here on GitHub as I continue to evolve.
 
 
 <div style="display: inline_block"><br>  
@@ -26,6 +27,9 @@ My name is Fabricio Santos and I am an enthusiast of web development. I have bee
  
  
 <!--
+
+### Hi there 👋
+
 **fgsantoz/fgsantoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
