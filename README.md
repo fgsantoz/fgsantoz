@@ -11,10 +11,9 @@
 </div>
 
 <br>
+<br>
 
-<h3>Things I code with</h3>
-
-<div>
+<div align="center">
 <table style="border: none; padding: 5px 0;">
   <tr>
     <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JS" height="30" width="40"></td>
@@ -39,6 +38,8 @@
  
  
 <!--
+
+<h3>Things I code with</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
